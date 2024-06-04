@@ -320,8 +320,10 @@ footer{
     .about-info, .contact-info{
         width: 100%;
     }
+    
     .project-container{
         justify-content: center;
+        
     }
     .project-box{
         width: 80%;
